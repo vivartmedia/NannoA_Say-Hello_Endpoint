@@ -8,6 +8,7 @@ namespace NannoA_Say_Hello_Endpoint.Controllers;
 public class SayHelloEndPoint : ControllerBase
     {
         [HttpPost]
+        [Route("SayHelloApi/{name}")]
          
     public string sayHelloApi(string name)
     {
