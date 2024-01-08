@@ -1,0 +1,33 @@
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\appsettings.Development.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\appsettings.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\NannoA_Say Hello_Endpoint.exe
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\NannoA_Say Hello_Endpoint.deps.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\NannoA_Say Hello_Endpoint.runtimeconfig.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\NannoA_Say Hello_Endpoint.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\NannoA_Say Hello_Endpoint.pdb
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.csproj.AssemblyReference.cache
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.AssemblyInfoInputs.cache
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.AssemblyInfo.cs
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.csproj.CoreCompileInputs.cache
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.MvcApplicationPartsAssemblyInfo.cs
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.MvcApplicationPartsAssemblyInfo.cache
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.NannoA_Say Hello_Endpoint.Microsoft.AspNetCore.StaticWebAssets.props
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.build.NannoA_Say Hello_Endpoint.props
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.NannoA_Say Hello_Endpoint.props
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.NannoA_Say Hello_Endpoint.props
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets.pack.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets.build.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\staticwebassets.development.json
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\scopedcss\bundle\NannoA_Say Hello_Endpoint.styles.css
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.csproj.CopyComplete
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\refint\NannoA_Say Hello_Endpoint.dll
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.pdb
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\NannoA_Say Hello_Endpoint.genruntimeconfig.cache
+G:\CodeStack\Level 2\week2\Assignments\NannoA_Say Hello_Endpoint\obj\Debug\net7.0\ref\NannoA_Say Hello_Endpoint.dll
